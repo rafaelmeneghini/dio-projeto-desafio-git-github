@@ -1,6 +1,6 @@
-# Gambito da Dama
+# Abertura o Gambito da Dama
 
-Os movimentos que caracterizam a Italiana são:
+Os movimentos que caracterizam o Gambito da Dama são:
 
 1.d4 d5
 

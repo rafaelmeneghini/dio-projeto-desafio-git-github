@@ -1,6 +1,6 @@
 # Defesa Siciliana
 
-Caracterizada logo no primeiro movimento das pretas, a abertura Siciliana transcorre da seguinte maneira:
+Caracterizada logo no primeiro movimento das pretas a abertura Siciliana transcorre da seguinte maneira:
 
 1.e4 c5
 
