@@ -11,6 +11,5 @@ Os movimentos iniciais que caracterizam está defesa são:
 
 
 [Voltar para Aberturas](/README.md)
-
 ------
 
