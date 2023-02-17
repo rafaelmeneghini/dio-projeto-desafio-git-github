@@ -6,10 +6,10 @@ O objetivo inicial deste projeto consiste em listar as principais aberturas do x
 
 **Aberturas:**
 
-- Italiana
-- Ruy Lopez
-- Siciliana
-- Francesa
 - Caro-Kann
+- Francesa
 - Gambito da Dama
 - Holandesa
+- Italiana
+- Rui Lopez
+- Siciliana
