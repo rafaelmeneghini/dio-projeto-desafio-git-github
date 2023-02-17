@@ -10,7 +10,7 @@ Caracterizada logo no primeiro movimento das pretas a abertura Siciliana transco
 
 
 
-[Voltar para Aberturas](https://github.com/rafaelmeneghini/dio-projeto-desafio-git-github/blob/5844f14658322df2c3452f0793a3d9553eb39f4c/README.md)
+[Voltar para Aberturas](/README.md)
 
 ------
 
